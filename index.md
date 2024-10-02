@@ -84,13 +84,10 @@ I read this interesting quote the other day:
   * Is possibly mentally unwell
   
 1. Cut the cheese<br />
+Make sure that the cheese is cut into little triangles.
 <br />
- Make sure that the cheese is cut into little triangles.<br />
- <br />
-2. Slice the tomatoes <br />
-<br />
- Be careful when holding the knife.<br />
- <br />
+2. Slice the tomatoes<br />
+   Be careful when holding the knife.<br />
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
 ## Lesson 7
