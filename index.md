@@ -22,7 +22,7 @@ Here's some words about the book _One Hundred Years..._.
 
 ## Lesson 3
 
-[Search for it.](http://www.google.com)
+[Search for it.](https://www.google.com)
 
 [You're **really, really** going to want to see this.](http://www.dailykitten.com)
 
